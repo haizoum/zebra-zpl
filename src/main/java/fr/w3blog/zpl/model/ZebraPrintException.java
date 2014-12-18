@@ -6,7 +6,7 @@ package fr.w3blog.zpl.model;
  * @author ttropard
  * 
  */
-public class ZebraPrintException extends Exception {
+public class ZebraPrintException extends Exception{
 	/**
 	 * Default Constructor
 	 * 

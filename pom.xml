@@ -30,6 +30,12 @@
 			<name>Thibaut Tropardy</name>
 			<organizationUrl>w3blog.fr</organizationUrl>
 		</developer>
+                <developer>
+			<id>DzFlexibility</id>
+			<name>Billel LOUBAR</name>
+                        <email>loubar_billel@hotmail.com</email>
+			<organizationUrl>www.dzflexibility.com</organizationUrl>
+		</developer>
 	</developers>
 
   <properties>

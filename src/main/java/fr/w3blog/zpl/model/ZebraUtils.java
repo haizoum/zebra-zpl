@@ -1,5 +1,6 @@
 package fr.w3blog.zpl.model;
 
+import fr.w3blog.zpl.model.ZebraPrintException;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
